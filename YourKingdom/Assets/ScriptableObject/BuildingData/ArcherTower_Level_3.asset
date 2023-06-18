@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20459f323aa07d4ca5869290e11c807, type: 3}
+  m_Name: ArcherTower_Level_3
+  m_EditorClassIdentifier: 
+  _buildingPrefab: {fileID: -8120871087411179459, guid: 4a22e12a8e88f7b49a3061aab3882813, type: 3}
+  _maximumHealth: 20
+  _maxBuiltTime: 0
+  _texture: {fileID: 21300000, guid: 49763f91ff9a68644897226748ef2f76, type: 3}
+  _upgradeResources:
+    wood: 15
+    stone: 13
+    grain: 0
+  _repairResources:
+    wood: 16
+    stone: 14
+    grain: 0
+  _buildResources:
+    wood: 0
+    stone: 0
+    grain: 0
+  _sellResources:
+    wood: 9
+    stone: 7
+    grain: 0
+  _range: 4.5
+  _power: 3
+  _shootDelay: 3

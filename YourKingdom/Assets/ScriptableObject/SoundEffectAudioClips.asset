@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9833bfb50cc2344a872f54677023283, type: 3}
+  m_Name: SoundEffectAudioClips
+  m_EditorClassIdentifier: 
+  _button:
+  - {fileID: 8300000, guid: 48a2446c9a63fcd4ca1e5155834331cf, type: 3}
+  - {fileID: 8300000, guid: ba98e7e711f24e4468fd2f7d31207246, type: 3}
+  _unitRecruitment: {fileID: 8300000, guid: 8f134237582786949852bc19fc7d0a50, type: 3}
+  _built: {fileID: 8300000, guid: 33ab0af8eb1c1bb48a009dabc9ea830d, type: 3}
+  _sell: {fileID: 8300000, guid: 6489ba59353176349bb584f9d169fdd8, type: 3}
+  _loseGame: {fileID: 8300000, guid: 68cfb9c6bbdf5754cb342bec02e4ab82, type: 3}

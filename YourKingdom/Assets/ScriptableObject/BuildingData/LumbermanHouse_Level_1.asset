@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e643b10e536efde48b712aea146a748f, type: 3}
+  m_Name: LumbermanHouse_Level_1
+  m_EditorClassIdentifier: 
+  _buildingPrefab: {fileID: 6538714518145082869, guid: 2a195edcb5d750e49bc98169982e7a12, type: 3}
+  _maximumHealth: 15
+  _maxBuiltTime: 10
+  _texture: {fileID: 21300000, guid: b420848cb1a8ee44389576e5b7e07b2a, type: 3}
+  _upgradeResources:
+    wood: 9
+    stone: 7
+    grain: 0
+  _repairResources:
+    wood: 6
+    stone: 5
+    grain: 0
+  _buildResources:
+    wood: 5
+    stone: 4
+    grain: 0
+  _sellResources:
+    wood: 3
+    stone: 3
+    grain: 0

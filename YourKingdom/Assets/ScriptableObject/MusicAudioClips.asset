@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c45d1eb647c71e641a178b1194318bbd, type: 3}
+  m_Name: MusicAudioClips
+  m_EditorClassIdentifier: 
+  _mainMenu: {fileID: 8300000, guid: 22906d273cd1ee945909b5835c3b202f, type: 3}
+  _duringPlay: {fileID: 8300000, guid: eb3ff33a56022564fb0bb6d5ba1d1e9d, type: 3}
+  _duringAttack: {fileID: 8300000, guid: 6bd7cb76d47384545bf81ad5c38fbf5c, type: 3}
+  _loseGame: {fileID: 8300000, guid: 68cfb9c6bbdf5754cb342bec02e4ab82, type: 3}
+  _victoryGame: {fileID: 8300000, guid: 262259632e2a25e4b914ea172f1a205c, type: 3}

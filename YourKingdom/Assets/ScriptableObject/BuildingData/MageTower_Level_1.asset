@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f20459f323aa07d4ca5869290e11c807, type: 3}
+  m_Name: MageTower_Level_1
+  m_EditorClassIdentifier: 
+  _buildingPrefab: {fileID: 5287704971319783747, guid: 13ebfc81f2d3cad4d940ffc0b957f0e5, type: 3}
+  _maximumHealth: 15
+  _maxBuiltTime: 25
+  _texture: {fileID: 21300000, guid: 0528d4dc9102ed149af7e44771f55305, type: 3}
+  _upgradeResources:
+    wood: 16
+    stone: 20
+    grain: 0
+  _repairResources:
+    wood: 14
+    stone: 15
+    grain: 0
+  _buildResources:
+    wood: 14
+    stone: 15
+    grain: 0
+  _sellResources:
+    wood: 7
+    stone: 8
+    grain: 0
+  _range: 4.5
+  _power: 2
+  _shootDelay: 4
