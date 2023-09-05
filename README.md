@@ -1,4 +1,4 @@
-![alt-text](YourKingdom/Assets/Sprite/Screens/Icon.png)
+![Logo](YourKingdom/Assets/Sprite/Screens/Icon.png)
 
 Your Kingdom is an immersive real-time strategy game that transports players to a medieval world where they must defend their castle from relentless barbarian attacks.
 
